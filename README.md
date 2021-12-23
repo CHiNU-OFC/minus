@@ -93,7 +93,6 @@ By establishing the minus, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![CHiNU-OFC](https://github.com/CHiNU-OFC.png?size=100)](https://github.com/CHiNU-OFC) 
-----|----|----
 
 [CHiNU-OFC](https://github.com/CHiNU-OFC) 
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
