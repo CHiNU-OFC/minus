@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## [![minus](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+minus+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![minus](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+minus+WA+Bot+repo;Created+by+CHiNU+OFC;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -25,15 +25,7 @@ Project created by <a href="https://github.com/CHiNU-OFC">CHiNU-OFC</a> to make 
 
 ----
 
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
-  
+ 
 
 <p align="center">
 
@@ -47,9 +39,9 @@ Project created by <a href="https://github.com/CHiNU-OFC">CHiNU-OFC</a> to make 
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@minuscreator/minus-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/CHiNU-OFC/minus.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
      </div>
 <br>
 <br >
@@ -102,6 +94,7 @@ By establishing the minus, you are deemed to have accepted these responsibilitie
     
   [![CHiNU-OFC](https://github.com/CHiNU-OFC.png?size=100)](https://github.com/CHiNU-OFC) 
 ----|----|----
+
 [CHiNU-OFC](https://github.com/CHiNU-OFC) 
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
